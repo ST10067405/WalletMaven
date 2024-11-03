@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand colors -->
+    <color name="primaryColor">#546E7A</color>
+    <color name="primaryColorDark">#121212</color>
+    <color name="primaryColorVariant">#37474F</color>
+    <color name="onPrimaryColor">#ECEFF1</color>
+
+    <!-- Secondary brand colors -->
+    <color name="secondaryColor">#c4bfb9</color>
+    <color name="secondaryColorVariant">#95928D</color>
+    <color name="onSecondaryColor">#212121</color>
+
+    <!--Status/Nav Color-->
+    <color name="statusNav">#43585E</color>
+
+    <!-- Background colors -->
+    <color name="backgroundColorDark">#3B4141</color> <!-- Dark Mode Background -->
+    <color name="backgroundColorLight">#CFD8DC</color> <!-- Light Mode Background -->
+
+    <!-- Colour Palette-->
+    <color name="colorExpense1">#82B1FF</color>
+    <color name="colorExpense2">#CCFF90</color>
+    <color name="colorExpense3">#FF8A80</color>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="WMDark">#3B4141</color>
+    <color name="WMContrastDark">#F23B4141</color>
+    <color name="WMLight">#C4BFB6</color>
+    <color name="BackgroundBlue">#344757</color>
+</resources>

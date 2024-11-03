@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">WalletMaven</string>
+    <string name="title_home">Tuis</string>
+    <string name="title_dashboard">Paneelbord</string>
+    <string name="title_budgetoverview">Oorsig</string>
+    <string name="wallet_maven_logo">Wallet Maven Logo</string>
+    <string name="login">AANMEL</string>
+    <string name="sign_in_with_google">Meld aan met Google</string>
+    <string name="or_register_with_email">Of registreer met e-pos</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Boodskappe</string>
+    <string name="sync_header">Sinkroniseer</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Jou handtekening</string>
+    <string name="reply_title">Verstek antwoord handeling</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sinkroniseer e-pos van tyd tot tyd</string>
+    <string name="attachment_title">Laai inkomende aanhangsels af</string>
+    <string name="attachment_summary_on">Laai outomaties aanhegsels af vir inkomende e-posse</string>
+    <string name="attachment_summary_off">Laai slegs aanhegsels af wanneer dit met die hand versoek word</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hallo leë fragment</string>
+    <string name="title_settings">Instellings</string>
+    <string name="title_logout">Teken uit</string>
+    <string name="add_expense">Voeg uitgawe by</string>
+    <string name="store_name">Winkel Naam</string>
+    <string name="price">Prys</string>
+    <string name="select_category">Kies kategorie</string>
+    <string name="sort_by_category">Sorteer volgens kategorie</string>
+    <string name="expense_date">Datum</string>
+    <string name="dark_mode">Donker modus</string>
+
+    <!-- Google Web Client ID -->
+    <string name="default_web_client_id">848981230075-4im8mntdut32q5304pasvj82mfkibndv.apps.googleusercontent.com</string>
+    <string name="add_category">Voeg kategorie by</string>
+    <string name="budget_limit">Begrotingslimiet</string>
+    <string name="view_reports">Bekyk verslae</string>
+    <string name="currency_format">Geldeenheid formaat</string>
+    <string name="category_name">Kategorie Naam</string>
+    <string name="delete_expense">Vee uitgawe uit</string>
+    <string name="take_picture">Neem Foto</string>
+    <string name="budget_information">Begrotingsinligting</string>
+    <string name="loading">Laai tans...</string>
+    <string name="default_notification_channel_id">walletmaven_kanaal</string>
+    <string name="notification_title">WalletMaven</string>
+    <string name="add">Voeg by</string>
+    <string name="select_language">Kies Taal</string>
+    <string name="all">Almal</string>
+    <string name="buget_limit">Begrotingslimiet</string>
+    <string name="used">Gebruik</string>
+    <string name="remaining">Oorblywende</string>
+    <string name="none">Geen</string>
+
+    <!-- Budget Categories List -->
+    <string-array name="budget_categories">
+        <item>Bankfooie</item>
+        <item>Rekeninge en nutsdienste</item>
+        <item>Klere en bykomstighede</item>
+        <item>Uiteet</item>
+        <item>Onderwys</item>
+        <item>Vermaak</item>
+        <item><![CDATA[Fiksheid & Sport]]></item>
+        <item>Geskenke</item>
+        <item>Kruideniersware</item>
+        <item>Gesondheid en welstand</item>
+        <item>Huishoudelike Benodigdhede</item>
+        <item>Versekering</item>
+        <item>Internet</item>
+        <item>Beleggings</item>
+        <item>Lenings</item>
+        <item>Mediese uitgawes</item>
+        <item>Verband/huur</item>
+        <item>Troeteldierversorging</item>
+        <item>Telefoon</item>
+        <item>Spaargeld</item>
+        <item>Inkopies doen</item>
+        <item>Stroomdienste</item>
+        <item>Belasting</item>
+        <item>Vervoer</item>
+        <item>Vakansie</item>
+        <item>Voertuig Onderhoud</item>
+    </string-array>
+
+</resources>
